@@ -1,7 +1,2 @@
 
-Error: Unable to resolve module  react-native-screens from node_modules/react-navigation-tabs/src/navigators/createBottomTabNavigator.js
 
----If you are using react-navigation in your bare react-native project do not forget to also install the following required dependencies:
-
---npm install --save react-native-gesture-handler react-native-reanimated react-native-screens
---yarn add --save react-native-gesture-handler react-native-reanimated react-native-screens
